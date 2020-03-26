@@ -1,5 +1,4 @@
-cat >>"/etc/init.d/nginx" << EOF
-  #! /bin/sh
+#! /bin/sh
 # chkconfig: 2345 55 25
 # Description: Startup script for nginx webserver on Debian. Place in /etc/init.d and
 # run 'update-rc.d -f nginx defaults', or use the appropriate command on your
