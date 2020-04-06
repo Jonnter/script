@@ -30,11 +30,11 @@ node.name: es-01
 #
 # Path to directory where to store the data (separate multiple locations by comma):
 #
-path.data: /data/app/es/data
+path.data: /data/db/es
 #
 # Path to log files:
 #
-path.logs: /data/log/es/log
+path.logs: /data/log/es
 #
 # ----------------------------------- Memory -----------------------------------
 #
